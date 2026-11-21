@@ -1,0 +1,5 @@
+/build/
+/build-next/
+/build*
+/*.dll
+/*.exe

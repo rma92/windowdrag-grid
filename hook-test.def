@@ -1,0 +1,5 @@
+LIBRARY hook-test.dll
+
+EXPORTS
+WgInstall
+WgUninstall
